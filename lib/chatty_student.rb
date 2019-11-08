@@ -6,8 +6,6 @@ class ChattyStudent < Student
   end
   
   def pick_me
-    10.times do
-      super
-    end
+  super
   end
 end
