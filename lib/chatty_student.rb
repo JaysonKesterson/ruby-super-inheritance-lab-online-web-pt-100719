@@ -6,15 +6,7 @@ class ChattyStudent < Student
   end
   
   def pick_me
-  super
-  super
-  super
-  super
-  super
-  super
-  super
-  super
-  super
+  10.times
   super
   end
 end
