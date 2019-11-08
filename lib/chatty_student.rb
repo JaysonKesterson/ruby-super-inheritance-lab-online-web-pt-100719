@@ -7,5 +7,14 @@ class ChattyStudent < Student
   
   def pick_me
   super
+  super
+  super
+  super
+  super
+  super
+  super
+  super
+  super
+  super
   end
 end
